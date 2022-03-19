@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlueElectivire
-- 👀 I’m interested mostly in C# and Java developing, and mainly making games.
-- 🌱 I’m currently learning C as well as working github and collaborating on open-source stuff as a whole.
-- 💞️ I’m looking for someone to pls help me set up xmage on vscode because i'm getting 13k problems and like 50 error (how do you refernce javafx??) thanks
+- 👀 I’m interested mostly in C#, and mainly making games.
+- 🌱 I’m currently making my first big scale game!
+- 💞️ If anyone wants to give me some monogame advoce that would be great.
 - 📫 Reach me at guybar1510@gmail.com if you want to but i don't see a reason you would.
 
 <!---
